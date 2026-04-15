@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/GAME3/Documents/Unreal Projects/Repent/Content/Widget/WG_DialogueF.uasset",
+				"C:/Users/GAME3/Documents/Unreal Projects/Repent/Content/Widget/WG_DialogueE.uasset",
+				"C:/Users/GAME3/Documents/Unreal Projects/Repent/Content/Widget/WG_DialogueD.uasset",
+				"C:/Users/GAME3/Documents/Unreal Projects/Repent/Content/Widget/WG_DialogueA.uasset",
+				"C:/Users/GAME3/Documents/Unreal Projects/Repent/Content/Widget/WG_DialogueB.uasset",
+				"C:/Users/GAME3/Documents/Unreal Projects/Repent/Content/Widget/WG_DialogueC.uasset",
 				"C:/Users/GAME3/Documents/Unreal Projects/MyProject/Content/Widget/WG_Dialogue.uasset",
 				"C:/Users/GAME3/Documents/Unreal Projects/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/GAME3/Documents/Unreal Projects/MyProject/Content/Widget/WG_Choice_Text.uasset",
